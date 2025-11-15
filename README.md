@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋Hey</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -22,7 +22,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CaioHenrique12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
