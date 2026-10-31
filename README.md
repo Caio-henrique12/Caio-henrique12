@@ -1,35 +1,51 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+
+# 👋 Olá, eu sou o Caio!
+
+### 💻 Desenvolvedor iniciante | Explorando o mundo da programação
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Aprendendo+evoluindo+sempre!;Transformando+ideias+em+c%C3%B3digo."/>
+
 </div>
 
-###
+---
+
+## 🚀 Sobre mim
+
+- 👨‍💻 Meu nome é Caio.
+- 📚 Sou um programador iniciante.
+- 💡 Estou aprendendo e desenvolvendo minhas habilidades em programação.
+- 🎯 Meu objetivo é evoluir cada vez mais na área de tecnologia.
+
+---
+
+## 🛠️ Linguagens e tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark"/>
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=8b5cf6&icon_color=6366f1"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=8b5cf6"/>
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioHenrique12/CaioHenrique12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioHenrique12/CaioHenrique12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CaioHenrique12/CaioHenrique12/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
 
-###
+### 💜 Obrigado pela visita!
+
+*"Cada linha de código é um passo a mais na evolução."*
+
+</div>
